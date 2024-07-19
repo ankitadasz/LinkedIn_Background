@@ -51,5 +51,11 @@
     color: aliceblue;
     position: absolute;
     top: 70vh;
-    right: 39vw;
+    right: 20vw;
+    text-shadow: 2px bisque;
+    transition: 0.2s ease-out;
 }
+.link a:hover{
+   color: gray;
+}
+
