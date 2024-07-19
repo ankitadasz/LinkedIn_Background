@@ -58,4 +58,30 @@
 .link a:hover{
    color: gray;
 }
+.icon2 img{
 
+    position: absolute;
+    top: 75vh;
+    right: 36vw;
+    width: 1vw;
+    height: 3vh;
+}
+.call a{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    top: 75vh;
+    right: 28vw;
+    text-shadow: 2px bisque;
+    transition: 0.2s ease-out;
+}
+.call a:hover{
+   color: gray;
+}
+.sign img{
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    top: 77vh;
+    left: 23vw;
+}
