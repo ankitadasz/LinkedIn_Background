@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;900&family=Roboto+Slab:wght@700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -9,11 +11,32 @@
     height: 100vh;
 }
 .link .txt1{
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    color: white;
+    font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-size: xx-large;
+    color: whitesmoke;
     position: absolute;
-    top: 35vh;
-    right: 28vw;
-    font-size: x-large;
+    top: 28vh ;
+    right: 23vw;
+}
+.link .txt2{
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    color: whitesmoke;
+    position: absolute;
+    top: 43vh ;
+    right: 22vw;
+}
+.link .txt3{
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    color: whitesmoke;
+    position: absolute;
+    top: 49vh ;
+    right: 15vw;
+}
+.link .icon1{
+
 }
