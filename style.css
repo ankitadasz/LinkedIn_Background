@@ -37,6 +37,19 @@
     top: 49vh ;
     right: 15vw;
 }
-.link .icon1{
 
+.icon1 img{
+
+    position: absolute;
+    top: 70vh;
+    right: 36vw;
+    width: 1vw;
+    height: 3vh;
+}
+.link a{
+    text-decoration: none;
+    color: aliceblue;
+    position: absolute;
+    top: 70vh;
+    right: 39vw;
 }
